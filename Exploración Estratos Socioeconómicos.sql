@@ -1,3 +1,7 @@
+-- 0. En este proyecto usaremos datos recabados del sitio del INEGI. Específicamente, usaremos los resultados de la Encuesta Nacional
+-- de Ingresos y Gastos de los Hogares 2020. Usaremos consultas a una base de datos PostgreSQL para  hacer exploración sobre
+-- El estatus económico, social y laboral de las viviendas mexicanas. 
+
 -- 1. Primero, crearemos las tablas y agregaremos la información desde los csv
 
 -- 1.1 Creamos la tabla ingresos si no existe ya
